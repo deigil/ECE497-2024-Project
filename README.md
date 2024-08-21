@@ -65,23 +65,6 @@ This project aims to develop a simple, user-friendly network security system usi
    - Create a comprehensive user manual that guides users through the setup process, explains how the system works, and provides troubleshooting tips.
    - Include a quick start guide for users who prefer minimal reading.
 
-### Materials and Resources Needed
-
-#### Hardware:
-- **1x Raspberry Pi 3B+ or 4B**
-- **1x MicroSD Card (32GB or higher)**
-- **1x 5V, 2.5A Power Supply**
-- **2x Ethernet Cables**
-- **1x Raspberry Pi Enclosure/Case**
-
-#### Software:
-- **Raspberry Pi OS Lite**
-- **UFW**
-- **Suricata**
-- **Pi-hole**
-- **OpenVPN or WireGuard (optional)**
-- **Web Interface Development Tools (optional)**
-
 #### Resources:
 - **Programming Languages:** Python (for scripting), HTML/CSS (for the web interface)
 - **Networking Knowledge:** Understanding of IP addressing, subnetting, and routing
