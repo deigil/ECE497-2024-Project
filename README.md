@@ -1,19 +1,19 @@
 ### Project Overview: Plug-and-Play Network Security System
 
-This project aims to develop a simple, user-friendly network security system using a Raspberry Pi. The system will function similarly to a firewall, acting as a bridge between a user's internet connection and their devices to monitor and secure data traffic. The solution is designed for individuals who are not technically proficient, providing a plug-and-play experience with minimal setup and maintenance.
+We aim to develop a simple, user-friendly network security system using a Raspberry Pi. Our system will function similarly to a firewall, acting as a bridge between a user's internet connection and their devices to monitor and secure data traffic. We are designing this solution for individuals who are not technically proficient, providing a plug-and-play experience with minimal setup and maintenance.
 
 ### Objectives
 
-- **Ease of Use:** The system should be easy to install and configure, requiring minimal technical knowledge.
-- **Security:** The system will provide robust network security by monitoring incoming and outgoing traffic, blocking malicious activities, and preventing unauthorized access.
-- **Scalability:** The system should be scalable, allowing for additional security features or updates over time.
-- **Cost-Effective:** The solution should be affordable, utilizing readily available and inexpensive hardware and open-source software.
+- **Ease of Use:** Our system should be easy to install and configure, requiring minimal technical knowledge.
+- **Security:** We will provide robust network security by monitoring incoming and outgoing traffic, blocking malicious activities, and preventing unauthorized access.
+- **Scalability:** Our system should be scalable, allowing for additional security features or updates over time.
+- **Cost-Effective:** Our solution should be affordable, utilizing readily available and inexpensive hardware and open-source software.
 
 ### System Components
 
 #### Hardware
 
-1. **Raspberry Pi (Model 3B+ or 4B recommended):** The central processing unit for the system.
+1. **Raspberry Pi (Model 3B+ or 4B recommended):** The central processing unit for our system.
 2. **MicroSD Card (32GB or higher):** Storage for the operating system and software.
 3. **Power Supply (5V, 2.5A or higher):** To power the Raspberry Pi.
 4. **Ethernet Cables:** To connect the Raspberry Pi between the internet source (modem/router) and the host device (PC, laptop, etc.).
@@ -88,5 +88,4 @@ This project aims to develop a simple, user-friendly network security system usi
 - **Develop optional features, including the web interface and VPN setup.**
 - **Create user documentation and perform a user experience test with non-tech-savvy individuals.**
 
-This project, once complete, will provide a robust, cost-effective, and user-friendly network security solution for users who may not have the technical expertise to manage their own network security.
-
+Our project, once complete, will provide a robust, cost-effective, and user-friendly network security solution for users who may not have the technical expertise to manage their own network security.
