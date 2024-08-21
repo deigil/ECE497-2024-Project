@@ -21,7 +21,7 @@ This project aims to develop a simple, user-friendly network security system usi
 
 #### Software
 
-1. **Raspberry Pi OS (Lite version recommended):** A lightweight operating system for the Raspberry Pi.
+1. **ISO:** Linux ISO flavor with easy networking capabilities (TBD).
 2. **Uncomplicated Firewall (UFW):** A user-friendly frontend for iptables, which will manage the firewall rules.
 3. **Suricata:** An open-source network threat detection engine capable of real-time intrusion detection.
 4. **Pi-hole:** A DNS sinkhole that will block ads and malicious domains, enhancing security.
